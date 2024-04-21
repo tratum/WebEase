@@ -1,0 +1,6 @@
+@viewport {
+    viewport-fit: cover;
+  }
+.root {
+    scroll-behavior: smooth;
+}
