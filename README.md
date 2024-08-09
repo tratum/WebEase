@@ -1,2 +1,2 @@
 # WebEase
-## When i was a CS Newbie i hated Web Development to the Core be it the Structuring of HTML and CSS Scripts or deciphering the complex JS Code. This is an Attempt to Simplify the Bare Metal or Backbone of Web Development so that everyone can enjoy and not dive deeper and deeper into Abstraction/FrameWork Trap
+When i was a Computer Science Newbie i hated Web Development to the Core be it the Structuring of HTML and CSS Scripts or deciphering the complex JS Code. This is an Attempt to Simplify the Bare Metal or Backbone of Web Development so that everyone can enjoy and not dive deeper and deeper into Abstraction/FrameWork Trap
